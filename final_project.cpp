@@ -1,6 +1,6 @@
 /******************************************
 310 Project 1
-Authors: Ashutosh Rai and Vitalii Stadnyk
+Vitalii Stadnyk
 File: final_project.cpp
 
 Description: This program generates an array
